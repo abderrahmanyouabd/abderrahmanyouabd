@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **React & Flask**
 
-- 👨‍💻 All of my projects are available at [https://abderrahmanyouabd.000webhostapp.com/Portfolio/Projects.html](https://abderrahmanyouabd.000webhostapp.com/Portfolio/Projects.html)
+- 👨‍💻 All of my documented projects are available in my [portfolio](https://abderrahmanyouabd.000webhostapp.com/Portfolio/Projects.html)
 
 - 💬 Ask me about **Java, Spring boot, Python, Angular and PHP**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>  [here](https://abderrahmanyouabd.000webhostapp.com/Portfolio/newContact.html)
 <p align="left">
 </p>
 
