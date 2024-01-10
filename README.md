@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Java, Spring boot, Python, Angular and PHP**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 
-[here](https://abderrahmanyouabd.000webhostapp.com/Portfolio/newContact.html)
+[Linkedin](https://www.linkedin.com/in/abderrahman-youabd/)
 <p align="left">
 </p>
 
