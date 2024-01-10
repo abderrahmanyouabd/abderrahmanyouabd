@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abderrahman Youabd</h1>
 <h3 align="center">A CS student and a passionate fullstack developer</h3>
-<img> align="center" alt="A1ST" width="400" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg"
+<img align="center" alt="A1ST" width="400" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abderrahmanyouabd" alt="abderrahmanyouabd" /></a> </p>
 
