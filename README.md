@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React & Flask**
 
-- 👨‍💻 All of my documented projects are available in my [portfolio](https://abderrahmanyouabd.000webhostapp.com/Portfolio/Projects.html)
+- 👨‍💻 All of my documented projects are available in my [portfolio](https://abderrahman-youabd.netlify.app/portfolio/projects)
 
 - 💬 Ask me about **Java, Spring boot, Python, Angular and PHP**
 
