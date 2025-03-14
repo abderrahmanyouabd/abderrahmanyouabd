@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abderrahman Youabd</h1>
-<h3 align="center">A CS student and a passionate fullstack developer</h3>
+<h3 align="center">A CS student</h3>
 <img align="right" alt="A1ST" width="fit-content" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abderrahmanyouabd" alt="abderrahmanyouabd" /></a> </p>
-
-- 🔭 I’m currently working on [InvoicePro V2](https://github.com/abderrahmanyouabd/A1ST_InvoiceProV2)
-
-- 🌱 I’m currently learning **React & Flask**
-
-- 👨‍💻 All of my documented projects are available in my [portfolio](https://a1st.vercel.app)
-
-- 💬 Ask me about **Java, Spring boot, Python, Angular and PHP**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abderrahmanyouabd&title=MultiLanguage,Commits,Repositories" alt="abderrahmanyouabd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3> 
 
